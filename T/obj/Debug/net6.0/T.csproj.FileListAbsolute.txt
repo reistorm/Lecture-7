@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\bin\Debug\net6.0\T.exe
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\bin\Debug\net6.0\T.deps.json
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\bin\Debug\net6.0\T.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\bin\Debug\net6.0\T.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\bin\Debug\net6.0\T.pdb
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\refint\T.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.pdb
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\T.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\T\obj\Debug\net6.0\ref\T.dll

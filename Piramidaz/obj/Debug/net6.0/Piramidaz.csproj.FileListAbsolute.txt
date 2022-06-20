@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\bin\Debug\net6.0\Piramidaz.exe
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\bin\Debug\net6.0\Piramidaz.deps.json
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\bin\Debug\net6.0\Piramidaz.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\bin\Debug\net6.0\Piramidaz.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\bin\Debug\net6.0\Piramidaz.pdb
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\refint\Piramidaz.dll
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.pdb
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\Piramidaz.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\Лекции\Lecture6\Piramidaz\obj\Debug\net6.0\ref\Piramidaz.dll
